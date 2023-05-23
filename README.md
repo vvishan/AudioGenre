@@ -29,7 +29,7 @@ K-Nearest Neighbors is a popular machine learning algorithm for regression and c
 The first step for music genre classification project would be to extract features and components from the audio files. It includes identifying the linguistic content and discarding noise.
 
 1. Imports:
-'''from python_speech_features import mfcc
+''' from python_speech_features import mfcc
 import scipy.io.wavfile as wav
 import numpy as np
 
@@ -40,4 +40,4 @@ import random
 import operator
 
 import math
-import numpy as np'''
+import numpy as np ''' # python
