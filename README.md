@@ -181,7 +181,7 @@ pred=nearestClass(getNeighbors(dataset ,feature , 5))
 print(results[pred])
                                   
 # Summary:
-In this music genre classification project, we have developed a classifier on audio files to predict its genre. We work through this project on GTZAN music genre classification dataset. This tutorial explains how to extract important features from audio files. In this deep learning project we have implemented a K nearest neighbor using a count of K as 5.
+In this music genre classification project, we have developed a classifier on audio files to predict its genre. We work through this project on music genre classification dataset. This tutorial explains how to extract important features from audio files. In this deep learning project we have implemented a K nearest neighbor using a count of K as 5.
 
 
 
